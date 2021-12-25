@@ -2,4 +2,4 @@
 
 ## Flex- Css Art
 
-### Hier komen all mijn Css art opdrachten.
+### Hier Komen Al mijn Css Art Opdrachten.
